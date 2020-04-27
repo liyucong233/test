@@ -1,0 +1,52 @@
+[ 1587631345.871140]: IMSettings-Daemon[2189]: INFO: Starting imsettings-daemon...
+[ 1587631345.871257]: IMSettings-Daemon[2189]: INFO:   [HOME=/home/15530839150/.config/imsettings]
+[ 1587631345.871368]: IMSettings-Daemon[2189]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[ 1587631345.871400]: IMSettings-Daemon[2189]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[ 1587631345.871428]: IMSettings-Daemon[2189]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[ 1587631345.871459]: IMSettings-Daemon[2189]: INFO:   [MODULES=gsettings, qt]
+
+
+[ 1587631345.875714]: IMSettings-Qt backend[2189]: WARNING **: Unable to read the Qt config file: No such file or directory
+
+[ 1587631345.991747]: IMSettings-Qt backend[2189]: WARNING **: Unable to read the Qt config file: No such file or directory
+
+[ 1587631346.084434]: IMSettings-Qt backend[2189]: WARNING **: Unable to read the Qt config file: No such file or directory
+
+[ 1587631346.100227]: IMSettings-Qt backend[2189]: WARNING **: Unable to read the Qt config file: No such file or directory
+
+[ 1587631346.114883]: IMSettings-Qt backend[2189]: WARNING **: Unable to read the Qt config file: No such file or directory
+
+[ 1587631346.124557]: IMSettings-Qt backend[2189]: WARNING **: Unable to read the Qt config file: No such file or directory
+imsettings information
+==========================
+XINPUTRC: N/A
+Is DBus enabled: yes
+Is imsettings enabled: yes
+Is GTK+ supported: 
+[ 1587631346.161653]: IMSettings-Qt backend[2189]: WARNING **: Unable to read the Qt config file: No such file or directory
+
+[ 1587631346.171949]: IMSettings-Qt backend[2189]: WARNING **: Unable to read the Qt config file: No such file or directory
+
+[ 1587631346.181727]: IMSettings-Qt backend[2189]: WARNING **: Unable to read the Qt config file: No such file or directory
+
+[ 1587631346.194037]: IMSettings-Qt backend[2189]: WARNING **: Unable to read the Qt config file: No such file or directory
+yes
+Is Qt supported: 
+[ 1587631346.205600]: IMSettings-Qt backend[2189]: WARNING **: Unable to read the Qt config file: No such file or directory
+
+[ 1587631346.215558]: IMSettings-Qt backend[2189]: WARNING **: Unable to read the Qt config file: No such file or directory
+yes
+DESKTOP: gnome-classic
+GUESS_DESKTOP: $GDMSESSION
+DISABLE_IMSETTINGS: 
+IMSETTINGS_DISABLE_DESKTOP_CHECK: 
+DBUS_SESSION_BUS_ADDRESS: unix:abstract=/tmp/dbus-YVHFRFycSz,guid=d0a1a1f3158abc0a0d2499a75ea154f1
+GTK_IM_MODULE: 
+QT_IM_MODULE: 
+XMODIFIERS: 
+IMSETTINGS_MODULE: none
+IMSETTINGS_INTEGRATE_DESKTOP: yes
+
+org.gnome.SettingsDaemon.Keyboard.desktop exists. imsettings is going to be disabled.

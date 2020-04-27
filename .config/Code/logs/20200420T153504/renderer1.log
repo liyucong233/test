@@ -1,0 +1,8 @@
+[2020-04-20 15:36:45.620] [renderer1] [warning] Workbench did not finish loading in 10 seconds, that might be a problem that should be reported.
+[2020-04-20 16:09:45.923] [renderer1] [error] Backup: Could not find meta end marker in vscode-userdata:/home/15530839150/.config/Code/User/Backups/a82c30091ab771e3f5b9242839133aa7/file/fb83ac78a54a824c03c38ba296f7bc38. The file is probably corrupt.
+[2020-04-20 16:09:48.267] [renderer1] [error] Backup: Could not find "\n" in first 10000 bytes of vscode-userdata:/home/15530839150/.config/Code/User/Backups/a82c30091ab771e3f5b9242839133aa7/file/fb83ac78a54a824c03c38ba296f7bc38: Error: Backup: Could not find "\n" in first 10000 bytes of vscode-userdata:/home/15530839150/.config/Code/User/Backups/a82c30091ab771e3f5b9242839133aa7/file/fb83ac78a54a824c03c38ba296f7bc38
+    at e.readToMatchingString (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4870:239)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4869:886
+    at async Promise.all (index 1)
+    at async e.getBackups (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4869:838)
+    at async e.doRestoreBackups (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4591:384)
