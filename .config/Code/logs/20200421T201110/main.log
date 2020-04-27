@@ -1,7 +1,0 @@
-[2020-04-21 20:11:20.267] [main] [info] update#setState idle
-[2020-04-21 20:11:51.193] [main] [info] update#setState checking for updates
-[2020-04-21 20:12:41.722] [main] [error] Error: net::ERR_TIMED_OUT
-    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2623:21)
-    at SimpleURLLoaderWrapper.emit (events.js:203:13)
-[2020-04-21 20:12:41.722] [main] [info] update#setState idle
-[2020-04-21 20:14:03.159] [main] [error] [VS Code]: detected unresponsive

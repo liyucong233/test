@@ -1,3 +1,0 @@
-[2020-04-20 15:37:38.952] [sharedprocess] [info] main {"machineId":"693ec4b10efa8e44ae6b5d536657d8664eb736c2337b2058054980471ef18bad","windowId":3}
-[2020-04-20 15:38:20.758] [sharedprocess] [info] Starting to clean up unused language packs.
-[2020-04-20 15:38:21.147] [sharedprocess] [info] Skipping directory bde907400d9a4fa1269f7dbaf14dc5b1.zh-cn. Language pack still in use.

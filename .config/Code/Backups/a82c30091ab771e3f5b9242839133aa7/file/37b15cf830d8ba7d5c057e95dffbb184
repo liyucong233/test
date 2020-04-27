@@ -1,7 +1,0 @@
-file:///home/15530839150/%E5%85%AC%E5%85%B1/.vscode/test.c {"mtime":1587365516511,"ctime":1587365516511,"size":0,"etag":"350iapf8j0","orphaned":false}
-#include<iostream>
-int main()
-{
-    std::cout<<"hi"<<std::endll;
-    return 0;
-}
